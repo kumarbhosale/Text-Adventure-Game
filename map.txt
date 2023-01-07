@@ -1,0 +1,8 @@
+||WolfRoom|LeaveCaveRoom||
+|Find5GoldRoom|EmptyCavePath|GiantSpiderRoom|EmptyCavePath|
+||EmptyCavePath||RockMonster|
+||EmptyCavePath|FindSwordRoom||
+|GiantSpiderRoom|EmptyCavePath|StartingRoom|EmptyCavePath|FindDaggerRoom
+||Find5GoldRoom||BatColony|
+||EmptyCavePath|OgreRoom|Find5GoldRoom|
+||SnakePitRoom||FindCrossbow|
